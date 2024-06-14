@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScrapping", "WebScrapping\WebScrapping.csproj", "{0E9355C7-ADD9-4135-95DE-C87C8F746265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3ChampionsWebScrapping.ConsoleApp", "W3ChampionsWebScrapping.ConsoleApp\W3ChampionsWebScrapping.ConsoleApp.csproj", "{374546BF-4551-492F-B55A-F58D885D9402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E9355C7-ADD9-4135-95DE-C87C8F746265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9355C7-ADD9-4135-95DE-C87C8F746265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9355C7-ADD9-4135-95DE-C87C8F746265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9355C7-ADD9-4135-95DE-C87C8F746265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{374546BF-4551-492F-B55A-F58D885D9402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374546BF-4551-492F-B55A-F58D885D9402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374546BF-4551-492F-B55A-F58D885D9402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374546BF-4551-492F-B55A-F58D885D9402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF288944-6F0F-4F68-A0EC-42E4CCD9EDD1}
+	EndGlobalSection
+EndGlobal
